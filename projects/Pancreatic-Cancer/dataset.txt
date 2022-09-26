@@ -1,0 +1,3 @@
+The original Dataset PCGIPI-sliced has been taken from the following website:
+
+https://osf.io/wc4u9/files/osfstorage">Dataset for Pancreatic Cancer Grading in Pathological Images using Deep Learning Convolutional Neural Networks
