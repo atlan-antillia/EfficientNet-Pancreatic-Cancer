@@ -20,7 +20,7 @@
 <a id="1">1 EfficientNetV2 Pancreatic Cancer Classification</a>
 </h2>
 
- This is an experimental EfficientNetV2 EfficientNetV2 Pancreatic Cancer Classification project based on <b>efficientnetv2</b> in <a href="https://github.com/google/automl">Brain AutoML</a>.
+ This is an experimental EfficientNetV2 Pancreatic Cancer Classification project based on <b>efficientnetv2</b> in <a href="https://github.com/google/automl">Brain AutoML</a>.
 <br>
 <br>
 The original Dataset PCGIPI-sliced has been taken from the following website:<br>
