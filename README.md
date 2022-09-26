@@ -53,7 +53,7 @@ You will have the following directory tree:<br>
 <h3>
 <a id="1.2">1.2 Prepare Pancreatic Cancer dataset</a>
 </h3>
-Please download the  Pancreatic Cancer data from the following website:<br>
+Please download the  Pancreatic Cancer dataset from the following website:<br>
 <a href="https://osf.io/wc4u9/files/osfstorage">Dataset for Pancreatic Cancer Grading in Pathological Images using Deep Learning Convolutional Neural Networks
 </a>
 
